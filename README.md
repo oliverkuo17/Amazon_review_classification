@@ -1,5 +1,5 @@
 # Amazon_review_classification
-Use machine learning algorithms to build models to classify the helpfulness for Amazon online eviews
+Use machine learning algorithms to build models to classify the helpfulness for Amazon online reviews
 
 There are many Amazon online reviews, which might be helpful, but never been seen by customers.
 The goal of this project is to create models to imprvoe the online reviews recommandation system.
